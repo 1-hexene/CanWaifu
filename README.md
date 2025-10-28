@@ -1,6 +1,6 @@
 # CanWaifu <img src="images/CanWaifu-Waifu.png" width="250px" align="right"/>
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/1-hexene/CanWaifu/develop?display_timestamp=committer&style=flat)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/1-hexene/CanWaifu/main?display_timestamp=committer&style=flat)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/1-hexene/canwaifu/.github%2Fworkflows%2Fbuild.yml?branch=develop)
 ![GitHub latest release](https://img.shields.io/github/v/release/1-hexene/CanWaifu)
 
